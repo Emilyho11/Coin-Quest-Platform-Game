@@ -9,6 +9,3 @@ Bitmap Display Configuration:
 - Display width in pixels: 512
 - Display height in pixels: 256
 - Base Address for Display: 0x10008000 ($gp)
-
-Here are some images!
-![Uploading lvl3.PNG…]()
