@@ -3,6 +3,7 @@ Pig Panic: Coin Quest is a platform game based on the theme of Angry birds.
 
 Video Link: https://youtu.be/WIFcdk-GruE
 
+#
 This Assembly game is written for the MIPS processor. The goal of the game is to try and collect all the coins without getting hit by the enemy (pigs), in order to move on to the next level! If you get hit, then you have to restart from the beginning. Each level will get harder to pass. 
 
 Bitmap Display Configuration:
