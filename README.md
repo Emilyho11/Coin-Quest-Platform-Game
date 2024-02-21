@@ -12,3 +12,9 @@ Bitmap Display Configuration:
 - Display width in pixels: 512
 - Display height in pixels: 256
 - Base Address for Display: 0x10008000 ($gp)
+
+## Images of the game
+![](images/main_menu.png)
+![](images/win.png)
+![](images/lose.png)
+![](images/platform_game.png)
